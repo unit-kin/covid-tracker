@@ -1,4 +1,4 @@
-
+A real-time application that tracks reported COVID-19 cases worldwide as well as in individual countries. The application displays data and provides graphical insights on cases, deaths, and recoveries.
 
 ## Available Scripts
 
